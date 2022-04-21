@@ -375,7 +375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2079a1bd060167d4ea08b532ba83f25c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  edadUsuario: 19
+  edadUsuario: 30
   miTexto: {fileID: 1270051916}
 --- !u!4 &865575275
 Transform:
